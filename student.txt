@@ -1,0 +1,7 @@
+57160383	4	Mr. kasidit	dings	3.70	SE	SE#3	Thomas	Graduated	24/05/2554
+59160614	2	Mr. supak	nakpra	3.00	SE	SE#5	Thomas	Studying
+59160555	2	Mr. Kabob	meeded	3.12	SE	SE#5	Thomas	Studying
+59160112	2	Mr. papmim	maktoum	3.32	SE	SE#5	Thomas	Studying
+58160211	3	Mr. mabut	prom	4.00	SE	SE#3	Thomas	Studying
+58160111	3	Mr. atipong	junsri	3.40	SE	SE#3	Thomas	Studying
+57161010	4	Mr. Killer	dojins	3.50	SE	SE#3	Peter	Graduated	11/03/2554

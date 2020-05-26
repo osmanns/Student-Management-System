@@ -1,0 +1,6 @@
+supak	089904	student
+panu	123456	staff
+thanat	999999	staff
+Peter	123456	teacher
+mabut	3r0032	student
+Thomas	123456	teacher

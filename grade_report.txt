@@ -1,0 +1,10 @@
+supak	88820559	Statistics and Empirical 	1/2560	B+
+supak	88823359	Data Structure and Algorithms	1/2560	A
+supak	88823459	Object-Oriented System Analysis	1/2560	A
+supak	88822259	Database Systems and Design	2/2560	A
+supak	88834659	Software Development Training	2/2560	B+
+mabut	88820559	Statistics and Empirical 	1/2560	A
+mabut	88823359	Data Structure and Algorithms	1/2560	B+
+mabut	88823459	Object-Oriented System Analysis	1/2560	B
+mabut	88822259	Database Systems and Design	2/2560	B
+mabut	88834659	Software Development Training	2/2560	A
